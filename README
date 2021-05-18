@@ -1,4 +1,4 @@
-Dataset description: Magnetoencephalography (MEG) dataset recorded during a hMT+ (human visual motion area) localizer task
+﻿Dataset description: Magnetoencephalography (MEG) dataset recorded during a hMT+ (human visual motion area) localizer task
 
 Published in: 
 Zilber, N., Ciuciu, P., Gramfort, A., Azizi, L., & Van Wassenhove, V. (2014). Supramodal processing optimizes visual perceptual learning and plasticity. Neuroimage, 93, 32-46.
@@ -22,7 +22,6 @@ Events:
 2: coherent / up
 3: incoherent / down
 4: incoherent / up
-
 
 
 ## MEG
