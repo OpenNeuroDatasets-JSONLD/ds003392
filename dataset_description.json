@@ -4,7 +4,7 @@
     "Authors": [
         "Nicolas Zilber",
         "Philippe Ciuciu",
-        "Alexandre Gramfort", 
+        "Alexandre Gramfort",
         "Leila Azizi",
         "Virginie van Wassenhove"
     ],
@@ -13,7 +13,7 @@
         "This work was supported by a Marie Curie IRG-249222 and an ERC-StG-263584 to V.vW and an ANR Schubert ANR-0909-JCJC-071 to P.C."
     ],
     "License": "CC0",
-    "DatasetDOI": " ",
+    "DatasetDOI": "10.18112/openneuro.ds003392.v1.0.4",
     "ReferencesAndLinks": [
         "https://doi.org/10.1016/j.neuroimage.2014.02.017"
     ],
